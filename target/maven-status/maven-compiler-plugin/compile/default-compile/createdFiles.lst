@@ -1,0 +1,14 @@
+br\com\api\produtos\model\ProdutoModel.class
+br\com\api\produtos\model\HobbiesModel.class
+br\com\api\produtos\service\ProdutoService.class
+br\com\api\produtos\model\RespostaModel.class
+br\com\api\produtos\repository\ProdutoRepository.class
+br\com\api\produtos\service\VoluntarioService.class
+br\com\api\produtos\service\HobbiesService.class
+br\com\api\produtos\repository\VoluntarioRepository.class
+br\com\api\produtos\model\VoluntarioModel.class
+br\com\api\produtos\controller\HobbiesController.class
+br\com\api\produtos\controller\ProdutoController.class
+br\com\api\produtos\ProdutosApplication.class
+br\com\api\produtos\repository\HobbiesRepository.class
+br\com\api\produtos\controller\VoluntarioController.class
